@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
             finish();
         });
 
-        Places.initialize(getApplicationContext(), "AIzaSyDtEPOvcLC8lvsq0X_MtCsUEArafQoUbYU");
+        Places.initialize(getApplicationContext(), "API_KEY");
     }
 
 
