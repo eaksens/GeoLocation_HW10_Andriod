@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470114868170",
+    "firebase_url": "https://geolocationapp-243300.firebaseio.com",
+    "project_id": "geolocationapp-243300",
+    "storage_bucket": "geolocationapp-243300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470114868170:android:869695ab2d52bdc8",
+        "android_client_info": {
+          "package_name": "com.example.geocalculatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470114868170-hso9jmus76s14tqhr9ndq182g5v4k796.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP-s5lhixcF6IYe0dFLR2bgjSyk9uEzms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470114868170-hso9jmus76s14tqhr9ndq182g5v4k796.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
